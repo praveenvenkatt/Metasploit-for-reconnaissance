@@ -51,6 +51,21 @@ In this directory right click and select the option "open terminal here".
 In this terminal run the python code to establish the http server
 ![Screenshot 2025-03-28 140418](https://github.com/user-attachments/assets/8efd9834-3907-413d-84d9-d27e879f918c)
 
+### Step4:
+Make the victim user  to download the exe file in his/her device which was created by us using msfvenom.
+By sharing exe file through any media  or using the server the exe file can be downloaded.
+**VICTIM DEVICE:**
+![WhatsApp Image 2025-03-28 at 14 47 45_03c71856](https://github.com/user-attachments/assets/dbb317e6-b57b-4c04-9908-778d020851b2)
+
+After downloading make them to run.
+![WhatsApp Image 2025-03-28 at 14 47 45_03c71856](https://github.com/user-attachments/assets/fe327381-891d-4f91-b3af-4ece1a8d21e2)
+
+
+
+
+
+
+
 
 
 
