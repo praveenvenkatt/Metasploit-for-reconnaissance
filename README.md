@@ -44,9 +44,13 @@ Run the following command to generate a Windows Meterpreter reverse shell payloa
 
 ### Step4:
 After the payload file is created go to the home directory.
-In this directory open the terminal here
+In this directory right click and select the option "open terminal here".
 
 ![Screenshot 2025-03-28 210707](https://github.com/user-attachments/assets/f5f434cb-b251-4d01-8ca3-ebb6afe1bb0f)
+
+In this terminal run the python code to establish the http server
+![Screenshot 2025-03-28 140418](https://github.com/user-attachments/assets/8efd9834-3907-413d-84d9-d27e879f918c)
+
 
 
 
