@@ -52,5 +52,6 @@ In this directory open the terminal here
 
 
 
+
 #### RESULT:
 The Metasploit framework for reconnaissance is  examined successfully.
