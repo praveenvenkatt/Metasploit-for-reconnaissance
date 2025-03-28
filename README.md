@@ -42,6 +42,13 @@ Generate Payload Using msfvenom
 Run the following command to generate a Windows Meterpreter reverse shell payload
 ![image](https://github.com/user-attachments/assets/dc16bb9d-a0e6-4b45-96dd-1b5a0d507115)
 
+### Step4:
+After the payload file is created go to the home directory.
+In this directory open the terminal here
+
+
+
+
 
 
 
