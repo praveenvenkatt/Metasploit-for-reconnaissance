@@ -23,7 +23,8 @@ Open terminal and try execute kali linux commands
 ## EXECUTION STEPS AND ITS OUTPUT:
 ### Step1:
 Find out the ip address of the attackers system
-![Screenshot 2025-03-28 135033](https://github.com/user-attachments/assets/714604c3-7848-4ccf-9849-45cc9b67a5e9)
+![image](https://github.com/user-attachments/assets/bb1c6730-c2c2-443a-8518-867238a569d8)
+
 
 ### Step2:
 Invoke the **msfconsole**.
