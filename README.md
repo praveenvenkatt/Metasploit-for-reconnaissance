@@ -22,12 +22,10 @@ Open terminal and try execute some kali linux commands
 
 ### EXECUTION STEPS AND ITS OUTPUT:
 Find out the ip address of the attackers system
-#### OUTPUT:
 ![ifconfig](https://github.com/Sanjay-2610/Metasploit-for-reconnaissance/assets/91368803/98abda89-3e1d-4095-8737-3dafe2bbcb4e)
 
 
 Invoke msfconsole:
-
 ![msfconsole](https://github.com/Sanjay-2610/Metasploit-for-reconnaissance/assets/91368803/2bfa2cc3-be5d-42de-92b9-4be09dc1f5ba)
 
 
