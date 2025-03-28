@@ -56,16 +56,25 @@ By sharing exe file through any media  or using the server the exe file can be d
 ![WhatsApp Image 2025-03-28 at 14 47 45_03c71856](https://github.com/user-attachments/assets/dbb317e6-b57b-4c04-9908-778d020851b2)
 
 After downloading make them to run.
-![WhatsApp Image 2025-03-28 at 14 47 45_03c71856](https://github.com/user-attachments/assets/fe327381-891d-4f91-b3af-4ece1a8d21e2)
+![WhatsApp Image 2025-03-28 at 14 47 45_6a2f6d61](https://github.com/user-attachments/assets/9bc15080-9257-4b03-9a7b-a8d9a050b8e5)
 
+### Step5:
+In kali linux open the terminal again Invoke the **"msfconsole"**.
+Follow these steps to get connected with victims device.
+![Screenshot 2025-03-28 142550](https://github.com/user-attachments/assets/a0cbd2d8-92db-46a2-bc17-73e3744e43de)
+Once it is exploited ther will be a connection made between Attackers device and victim device(The victim will not recognise it).
 
+### Step6:
+Using help command we can able to know what are the available commands that we can do with victims device.
 
+![Screenshot 2025-03-28 142611](https://github.com/user-attachments/assets/ce47f27f-d0bd-49fb-b0a8-f90351ce7896)
 
+### Step7:
+For example using **"screenshot"** command we can able to take scrrenshot of vitcms device.
+![Screenshot 2025-03-28 142630](https://github.com/user-attachments/assets/efa1cb48-4d7a-4161-b133-269d25abb04f)
 
-
-
-
-
+Screeshot of victims device is stored on attackers home directory.
+![Screenshot 2025-03-28 142704](https://github.com/user-attachments/assets/de62a1bf-6fa3-4b9f-b1ad-b2c99355b55e)
 
 #### RESULT:
 The Metasploit framework for reconnaissance is  examined successfully.
