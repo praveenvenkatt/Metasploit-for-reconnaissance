@@ -51,7 +51,9 @@ In this terminal run the python code to establish the http server
 
 ### Step4:
 Make the victim user  to download the exe file in his/her device which was created by us using msfvenom.
+
 By sharing exe file through any media  or using the server the exe file can be downloaded.
+
 **VICTIM DEVICE:**
 ![WhatsApp Image 2025-03-28 at 14 47 45_03c71856](https://github.com/user-attachments/assets/dbb317e6-b57b-4c04-9908-778d020851b2)
 
@@ -61,7 +63,9 @@ After downloading make them to run.
 ### Step5:
 In kali linux open the terminal again Invoke the **"msfconsole"**.
 Follow these steps to get connected with victims device.
+
 ![Screenshot 2025-03-28 142550](https://github.com/user-attachments/assets/a0cbd2d8-92db-46a2-bc17-73e3744e43de)
+
 Once it is exploited ther will be a connection made between Attackers device and victim device(The victim will not recognise it).
 
 ### Step6:
@@ -75,6 +79,10 @@ For example using **"screenshot"** command we can able to take scrrenshot of vit
 
 Screeshot of victims device is stored on attackers home directory.
 ![Screenshot 2025-03-28 142704](https://github.com/user-attachments/assets/de62a1bf-6fa3-4b9f-b1ad-b2c99355b55e)
+
+### Step7:
+These way we can able to attacke the victims device using metasploitable in kali linux.
+After using it close the connections.
 
 #### RESULT:
 The Metasploit framework for reconnaissance is  examined successfully.
