@@ -25,13 +25,14 @@ Open terminal and try execute kali linux commands
 Find out the ip address of the attackers system
 ![image](https://github.com/user-attachments/assets/bb1c6730-c2c2-443a-8518-867238a569d8)
 
-
 ### Step2:
 Invoke the **msfconsole**.
-![Screenshot 2025-03-28 135451](https://github.com/user-attachments/assets/595f002a-0d45-4e32-84de-7b04a3c18786)
+
+![image](https://github.com/user-attachments/assets/4d1d9bf4-d238-4292-8adf-1258012b7d4c)
+
 
 To know more about the msfconsole commands give **"?"**.
-![{618A45B9-BE2D-4BED-B95C-ACB9BAF10315}](https://github.com/user-attachments/assets/2d14d275-a964-4ab4-b42b-4c6a3a1a9e1f)
+![image](https://github.com/user-attachments/assets/27abd468-0de1-4ed6-8ac2-e892d912e35d)
 
 
 ### Step3:
