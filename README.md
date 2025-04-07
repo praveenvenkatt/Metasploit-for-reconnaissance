@@ -25,7 +25,8 @@ Open terminal and try execute some kali linux commands
 
 Find the attackers ip address using ifconfig
 ## OUTPUT:
-![s](https://github.com/praveenst13/Compromising-windows-using-Metasploit/assets/118787793/d9b9e488-6580-4969-a3d2-5061443c0ed1)
+![{9AA80ACE-197E-474A-89ED-A28F1F0FCE82}](https://github.com/user-attachments/assets/81ad3a1a-c4d1-4dfb-bfa4-11a04aab8cbf)
+
 
 
 
