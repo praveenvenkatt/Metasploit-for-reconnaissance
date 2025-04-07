@@ -25,7 +25,8 @@ Open terminal and try execute some kali linux commands
 
 Find the attackers ip address using ifconfig
 ## OUTPUT:
-![{9AA80ACE-197E-474A-89ED-A28F1F0FCE82}](https://github.com/user-attachments/assets/81ad3a1a-c4d1-4dfb-bfa4-11a04aab8cbf)
+![{858E421E-44DD-4BC9-9AF3-C74F4AA020AE}](https://github.com/user-attachments/assets/615ac26f-ad94-4064-9b65-44542e687cc4)
+
 
 
 
