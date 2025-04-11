@@ -28,9 +28,10 @@ Open terminal and try execute some kali linux commands
 ### Step 1: Identify the Attacker’s IP Address
 Determine the IP address of the attacker's system.
 
+
 ### Step 2: Launch the Metasploit Console
 Invoke the msfconsole.
-To view available commands, enter ?.
+
 
 ### Step 3: Generate Payload Using msfvenom
 Execute the following command to generate a Windows Meterpreter reverse shell payload.
