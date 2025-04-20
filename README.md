@@ -62,6 +62,7 @@ Once the victim downloads and executes the file, the exploit is triggered.
 ### Step 6: Establish a Connection
 On Kali Linux, reopen the terminal and invoke msfconsole.
 Follow the necessary steps to establish a connection with the victim’s device.
+
 ![Screenshot 2025-04-20 180840](https://github.com/user-attachments/assets/1a57d5cb-4aa4-4ea1-8737-b5194d25963e)
 
 Once exploited, a session is created, allowing remote access without the victim’s awareness.
